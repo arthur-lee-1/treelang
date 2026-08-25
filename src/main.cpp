@@ -1,11 +1,9 @@
 #include <iostream>
 #include <optional>
-#include <pjh_json/json.hpp>
+#include <pjh_json.hpp>
 #include <pjh_platform.hpp>
 #include <pjh_result.hpp>
 #include <string>
-
-#include "pjh_platform/file_watcher.hpp"
 
 int main()
 {
